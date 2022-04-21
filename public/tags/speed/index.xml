@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speed on Holly Gregorio</title>
+    <link>https://cloudwarp.org/tags/speed/</link>
+    <description>Recent content in speed on Holly Gregorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cloudwarp.org/tags/speed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doodads Mod</title>
+      <link>https://cloudwarp.org/projects/doodads/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudwarp.org/projects/doodads/</guid>
+      <description>This mod will add 250+ items, blocks, and accessories.
+What To Expect Doodads is a mod that will add over 250 different items and accessories to minecraft. I will be releasing this mod in sections which could be anywhere from 1 - 20 items at a time. Everything will be very configurable.
+All names, items, and uses are not final as many are based on terraria accessories. If you see it here that is no guarantee that it will make it into the mod.</description>
+    </item>
+    
+    <item>
+      <title>Faster Tools Mod</title>
+      <link>https://cloudwarp.org/projects/faster-tools/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudwarp.org/projects/faster-tools/</guid>
+      <description>This mod increases the default tool speed in minecraft by 25% and can be customized.
+About Development Faster Tools is a minecraft mod made for the fabric loader. It is my second Minecraft mod; created in February of 2022. After creating my Mob Scarecrows mod I wanted to make a mod that fixed something that had always bugged me in minecraft which was the incredibly slow tool speed. Making this mod was harder than it seemed because initially I had to inject into 4 different places in both minecrafts and fabric’s code to modify the resulting tool speed.</description>
+    </item>
+    
+  </channel>
+</rss>

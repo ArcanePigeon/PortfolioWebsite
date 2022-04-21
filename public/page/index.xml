@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Holly Gregorio</title>
+    <link>https://cloudwarp.org/page/</link>
+    <description>Recent content in Pages on Holly Gregorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cloudwarp.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://cloudwarp.org/page/about/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudwarp.org/page/about/</guid>
+      <description>&amp;ldquo;Hi! I&amp;rsquo;m Holly, and I&amp;rsquo;m a Game Desginer and Gameplay Programmer&amp;rdquo; I am also an artist, actor, board game junkie, and traveling enthusiast when I am not working on games. I am a graduate from North Carolina State University where I got a degree in Computer Science. I am currently developing Minecraft mods and a Co-Op puzzle game in Unity. Working on games has been my passion since I was a kid when I was learning to make Flash games with ActionScript and C++ games with OpenFrameworks.</description>
+    </item>
+    
+  </channel>
+</rss>

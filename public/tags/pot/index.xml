@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pot on Holly Gregorio</title>
+    <link>https://cloudwarp.org/tags/pot/</link>
+    <description>Recent content in pot on Holly Gregorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cloudwarp.org/tags/pot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probably Chests Mod</title>
+      <link>https://cloudwarp.org/projects/probably-chests/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudwarp.org/projects/probably-chests/</guid>
+      <description>This mod adds pots and chests that spawn all over the world, but beware as some chests are more than meets the eye.
+8,000 + Downloads
+About Development Probably Chests is a minecraft mod made for the fabric loader. It is my third Minecraft mod; created in April of 2022. Creating this mod was a new challenge as I got to learn how to use the GeckoLib library to create interesting animations for the mimics.</description>
+    </item>
+    
+  </channel>
+</rss>

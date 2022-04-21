@@ -1,0 +1,248 @@
+---
+author: "Holly Gregorio"
+title: "Doodads Mod"
+date: 2022-04-20
+description: "250+ items, blocks, and accessories"
+tags: ["minecraft", "faster", "tools", "speed"]
+thumbnail: /doodads.png
+---
+
+This mod will add 250+ items, blocks, and accessories.
+
+## What To Expect
+Doodads is a mod that will add over 250 different items and accessories to minecraft. I will be releasing this mod in sections which could be anywhere from 1 - 20 items at a time. Everything will be very configurable.
+
+All names, items, and uses are not final as many are based on terraria accessories. If you see it here that is no guarantee that it will make it into the mod.
+
+Come talk about the mod and suggest your ideas on the [discord](https://discord.gg/DWBttJkkrn).
+
+
+## Trinkets:
+- Ender Goggles prevent enderman from getting angry
+- Bunny Ears make bunnies stop jumping and navigate to you
+- Miners Glove Haste 2
+- Step Up Block
+- Glove Silk Touch everything
+- Glass Slipper Anti Crop Trample
+- Prevent you from stripping logs
+- Creeper Egg Prevents Creepers from targeting you
+- Bedrock Slippers Prevents explosion damage
+- Band of regenerations
+- Cross necklace increases iframe time
+- Shark Tooth Necklace increases armor penetration
+- Endless Quiver
+- Obsidian Skull Immunity to fire blocks
+- Cobalt Shield Decreases Knockback
+- Obsidian Shield
+- Bezoar Immunity to poison
+- Blindfold Immunity to blindness
+- Leg Brace Immunity to slowness
+- Feral Claws Decreases recharge time for weapons
+- Cloud in a bottle
+- Shiny Red Balloon
+- Lucky Horseshoe
+- Obsidian Horseshoe
+- Lava Charm Provides lava and fire immunity for 7 seconds
+- Water Walking boots
+- Lava Waders
+- Sun Stone Makes player stronger during the day
+- Moon Stone Makes player stronger during night
+- Celestial Stone Makes player stronger
+- Band of sun makes player stronger and regen more during day
+- Band of moon makes player stronger and regen more during night
+- Celestial band makes player stronger and regen more
+- Mining Helmet
+- Night vision Helmet
+- Hermes Boots
+- Flipper Swim faster
+- Ice Skates Gives traction on ice
+- Watch adds clock to gui
+- Tally Counter shows number of mobs killed (last mob killed)
+- Compass shows direction on gui
+- Diving Helmet gives water breathing
+- Flying Carpet
+- Inner Tube
+- Wings (pigeon) (all give immunity to fall damage)
+- Rocket Boots
+- Magic Quiver (increases arrow damage and has a chance to not consume arrow)
+- Magma Stone causes weapons to light mobs on fire
+- Molten Quiver makes arrows all flaming
+- Mechanical glove increases knockback and melee damage
+- Obsidian Rose decreases damage from lava by 50%
+- Panic Necklace increases speed by 50% for 5 seconds after taking damage
+- Extendo Grip Increases block place distance
+- Fencing Glove Increases melee attack distance
+- Putrid Scent Makes mobs less likely to target you but increases damage by 10%
+- Shackel Increases defense by a little
+- Villager Nose Makes all trades cheaper
+- 4 leaf clover increases drop rates of all mobs
+- Magnetic belt buckle increases pickup range
+- Wither Shield adds dash and applies wither to enemies it hits
+- Warden Scarf decreases damage by 15%
+- Bone belt makes skeletons not target you
+- Dragon Slippers makes end crystals heal you
+- Turtle Shell makes you heal when not moving
+- Golden Flask makes piglins not attack and sometimes just throw items at you for free
+- Black Belt has chance to dodge attack
+- Item to prevent Bee Aggro when using hive
+- Spider Egg makes tiny that fight for you
+- Coyote slippers gives the player a few seconds after walking off an edge
+- Slime shoes make the player bounce
+- Invisibility Cloak (hides player and armor no mobs can see you)
+- Brain in a jar on a necklace (stores xp instead of player)
+- Flower boots works like bone meal on ground as you walk
+- Scary Mask (makes mobs run away from you)
+- Stuffed Glare (places torches when it gets too dark)
+- Black Hole (destroys cobble and deepslate and dirt)
+- Fire walkers (trail of fire)
+- Cactus Ring (always have thorns)
+- Auto Swing thing
+- Banana peel (makes you always slippery)
+- Creepy Anklet (run faster in the dark)
+- Hungry Hungry Hippo (Enemies sometimes drop food)
+- Eraser (makes your username invisible)
+- Mini thunder cloud (makes tridents always summon lightning)
+- Spore blossom hair clip (randomly spawns (lingering) clouds of poison around you)
+- Elytra Wax (prevents elytra from taking damage)
+- Sponge hat (dries up water near you)
+- Spork (makes food fill more hunger)
+- Kid gloves (can’t damage animals)
+- Cheat codes (floppy disk, makes you get double xp)
+- Soggy glove (makes concrete power into concrete when placed)
+- Workout headband (sprint makes you lose hunger slower)
+- Green thumb (harvests more crops per crop)
+- Sleep mask (lets you use a bed in any dimension)
+- Gold tooth (fortune 1)
+- whoopee cushion
+
+## Cursed Objects:
+- Poison necklace (poisons you while you wear it)
+- Scissors (running with them randomly hurts you)
+- Reverse Sponge (just fucking fills your shit with water)
+- Shovel of power (strike me down zeus, you don’t have the balls. makes you get struck by lightning)
+- Lava in a bottle (drinkable)
+- Lead boots (can’t swim)
+- Rocket boots (explosion rocket jump)
+- Super dirt (TNT can’t break it)
+- Rubber Duck (???)
+- Fish bowl (wear on head and drown forever)
+- Explosive whoopee cushion
+
+## Items:
+- Grass breaking horn
+- Crop harvesting horn
+- Gravity Globe
+- Pogo Stick Launches you super high
+- Pig in a bundle (summons rideable pig)
+- Horse in a box (summons rideable horse)
+- Jack in a box (jack in a box that summons a creeper sometimes)
+- Mysterious Crank + Mysterious Box ( put together and activated freezes the day night cycle)
+- Solar Shards craft into Solar Tablet which consumes to make it day
+- Lunar Shards craft into Lunar Tablet which consumes to make it night
+- Magic Plum consume and when you die next it acts like a totem
+- Magic Walnut consume and it makes mobs spawn more like battle potion
+- Magic Mushrooms?
+- Dragon Heart (permanently adds 5 hearts?)
+- Glow sticks
+- Umbrella
+- Paintbrush (cycles colors of glass, wool terracotta)
+- Bee Sword
+- Cactus Sword
+- Poison Blade
+- Throwing Weapons
+- Vampire Dagger
+- Slapping glove
+- Spear that extends instead of being thrown (Piercing)
+- Mace (launches like fishing rod)
+- Bee Bow
+- Piercing Arrows
+- Grenade
+- Beenade
+- Sticky Grenade
+- Flares
+- Flare Gun
+- Amethyst Staff
+- Diamond Staff
+- Emerald Staff
+- Poison Staff
+- Bee Gun
+- Laser Rifle
+- Bomb
+- Holy Water
+- PickSaw
+- Flaming Axe (turns logs into charcoal)
+- The Axe (Guitar)
+- Grappling Hooks
+- Magic Mirror
+- Reinforced Fishing pole (Different loot tables)
+- Nether fishing pole
+- End Fishing Pole
+- Ender Rod (teleports a short distance to cursor)
+- Chorus Rod (teleports randomly)
+- Leaf Wand (places infinite leaves)
+- Breathing Reed
+- Iron Skin potion
+- Mining Potion
+- Fishing Armor (increases luck)
+- Cactus Armor (thorns)
+- Copper Armor (Attracts Lightning)
+- Obsidian Armor (slow but no knockback)
+- Magma block Armor (Immunity to fire damage)
+- Spider Armor (Spiders don’t target you, climb walls)
+- Moss Armor (more natural health regen but take a lot of fire damage)
+- Turtle Armor (takes less damage while motionless/crouching)
+- Gaia Slippers (turns dirt into grass as you walk on it)
+- Walkman (place in record to play it)
+- Stop Watch (freezes enemies around you)
+- Shifting sands (lets you walk through a wall)
+- Coral wings (lets you use riptide all the time)
+- Unlimited rocket
+- Firework arrows that work in normal bows
+- Explosive eggs (look like normal eggs) (small texture difference)
+- Slime Shield (knocks back enemies super far)
+- Cactus Shield (thorns)
+- Molten Shield (fire damage)
+- Power Shield (cannot be disabled but slows you)
+- Mimic Shield (does more damage, can look like another item to other players [steak, torches etc])
+- Bee (put it in your pocket)
+- Shorts (just athletic shorts)
+- Fish Sword (whack)
+- Portable hole (thaumcraft)
+- Life preserver (yeet it at someone and it will wrap around them and make them float?)
+- Life preserver (yeet it at someone and it applies a water breathing effect?)
+- Pavlov's bell (makes all nearby dogs do something?)
+- Pillows (for pillow fights) (hella knockback?)
+- Toy spider (shoots cobweb at people)
+- Necromancy for dummies (summons friendly zombie)
+- Lightning in a bottle (throwable)
+- Slingshot (fires pebbles, and potions)
+- Piranha gun terraria
+- Wand of invisibility (toggles invisibility for entities, and makes item frames invisible)
+- Bedrock breaker (1 use and it is destroyed)
+- Ghast on a stick (shoots mini fireballs)
+- Sledge hammer (breaks blocks like quartz into its crafting ingredients)
+- Bungee cord (lead that prevents thing from taking fall damage)
+- Everstone (makes baby animal baby forever)
+- Duct tape (silences mobs)
+
+## Blocks:
+- Brain in a jar (Stores XP from world)
+- Water Candle
+- Cannon
+- Liquid Honey
+- Lava Sponge
+- Garden Gnome (increases looting nearby)
+- Heart Lantern
+- Trash Can
+- Enemy Banners (like terraria)
+- Archery Station (clicking gives you an effect that has a chance to not consume arrows)
+- Sharpening Station (increases melee damage)
+- Fishing Crates
+- Ultra bright torches
+- EMP device (destroys all items within a certain radius when clicked)
+- Bounce Pad (stepping on it immediately launches you)
+- Mini beacon
+- Participation trophy (drops 1 for every player that fights the ender dragon)
+- Pet rock
+- Hypno toad (turns off villager AI of nearby villagers)
+- Sticky Soul Sand Block (honey + soul sand = slowness 10000 while on the block)

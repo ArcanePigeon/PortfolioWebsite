@@ -1,0 +1,73 @@
+baseurl = "https://cloudwarp.org"
+metaDataFormat = "yaml"
+title = "Holly Gregorio"
+theme = "blist"
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 1
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "Hey! I'm Holly Gregorio"
+      introSubtitle = "21 y/o junior developer who enjoys social card games, acting, art, and traveling"
+      introPhoto = "/profile-photo.png"
+      logo = "/logo.png"
+
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "page/about/"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "Projects"
+        url = "projects"
+        weight = 2
+
+[params]
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+
+  # Enable search in header
+  enableSearch = true
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2022 - Holly Gregorio · All rights reserved"
+  favicon = "/favicon.ico"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "projects"
+
+[params.homepage.social]
+  # Global params xommon for both languages
+  title = "Follow me"
+  description = "I post lots of development updates on my socials"
+  twitter = "https://twitter.com/ArcanePigeon"
+  linkedin = "https://www.linkedin.com/in/holly-gregorio/"
+  github = "https://github.com/ReillyGregorio"
+  dribbble = "https://dribbble.com/HollyGregorio"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
