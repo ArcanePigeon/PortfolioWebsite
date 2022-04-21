@@ -1,7 +1,7 @@
 ---
 author: "Holly Gregorio"
 title: "Mob Scarecrows Mod"
-date: 2022-01-06
+date: 2022-01-08
 description: "Adds plushie, statues, and scarecrows into minecraft that scare away monsters"
 tags: ["minecraft", "scarecrow", "plushie", "statue"]
 thumbnail: /mob-scarecrows.png
