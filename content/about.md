@@ -27,4 +27,4 @@ Check out some of my work on [GitHub](https://github.com/ReillyGregorio).
 
 My Minecraft mods on [CurseForge](https://www.curseforge.com/members/thearcanepigeon/projects).
 
-Contact me at reilly.j.gregorio&#064;gmail.com
+Contact me at holly.gregorio.dev&#064;gmail.com

@@ -14,7 +14,7 @@ Doodads is a mod that will add over 250 different items and accessories to minec
 
 All names, items, and uses are not final as many are based on terraria accessories. If you see it here that is no guarantee that it will make it into the mod.
 
-Come talk about the mod and suggest your ideas on the [discord](https://discord.gg/DWBttJkkrn).
+Come talk about the mod and suggest your ideas on the [discord](https://discord.gg/fvcFxTg6sB).
 
 
 ## Trinkets:

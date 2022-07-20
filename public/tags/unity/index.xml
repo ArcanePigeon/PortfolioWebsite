@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unity on Holly Gregorio</title>
+    <link>https://cloudwarp.org/tags/unity/</link>
+    <description>Recent content in unity on Holly Gregorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cloudwarp.org/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pineapple Defense</title>
+      <link>https://cloudwarp.org/projects/pineapple-defense/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudwarp.org/projects/pineapple-defense/</guid>
+      <description>Pineapple defense is a simple tower defense game where you must defend you master pineapple from waves of pizza monsters.
+About Development Pineapple Defense was made in Unity as a part of a challenge to make a game that had the theme of pineapples. The game is based on the old flash game Desktop Tower Defense but changes things up with new enemy types, crazier towers, and a new strategy of placing your master pineapple and protecting it as waves come from all directions.</description>
+    </item>
+    
+  </channel>
+</rss>

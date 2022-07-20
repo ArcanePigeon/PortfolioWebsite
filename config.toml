@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm Holly Gregorio"
-      introSubtitle = "21 y/o junior developer who enjoys social card games, acting, art, and traveling"
+      introSubtitle = "22 y/o game developer who enjoys social card games, acting, art, and traveling"
       introPhoto = "/profile-photo.png"
       logo = "/logo.png"
 

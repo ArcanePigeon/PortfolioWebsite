@@ -8,10 +8,12 @@
       "circle",
       "defs",
       "div",
+      "em",
       "footer",
       "h1",
       "h2",
       "h3",
+      "h4",
       "h5",
       "head",
       "header",
@@ -187,17 +189,29 @@
     "ids": [
       "a",
       "about-development",
+      "about-the-game",
       "about-the-mod",
+      "art",
       "blocks",
       "cursed-objects",
       "future-plans",
       "hi-im-holly-and-im-a-game-desginer-and-gameplay-programmer",
       "items",
+      "keys-and-locks",
+      "mimic-abandoning",
+      "mimics",
       "mimics-and-combat",
       "pet-mimics",
+      "pet-mimics-1",
       "scarecrow-types",
+      "the-mimic-hand-bell",
+      "there-are-3-kinds-of-locks",
+      "there-are-4-types-of-pots",
+      "there-are-5-types-of-keys",
+      "there-are-9-types-of-chests",
       "trinkets",
-      "what-to-expect"
+      "what-to-expect",
+      "world-gen"
     ]
   }
 }

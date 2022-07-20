@@ -33,7 +33,7 @@
   <meta itemprop="name" content="Probably Chests Mod">
 <meta itemprop="description" content="Adds biome chests that spawn all over the world, but be careful as some are more than meets the eye"><meta itemprop="datePublished" content="2022-04-08T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2022-04-08T00:00:00+00:00" />
-<meta itemprop="wordCount" content="501">
+<meta itemprop="wordCount" content="1085">
 <meta itemprop="keywords" content="minecraft,chest,mimic,pot," />
 </head>
 <body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative">
@@ -137,7 +137,7 @@
         <circle cx="12" cy="12" r="9" />
         <polyline points="12 7 12 12 15 15" />
       </svg>
-      3&nbsp;minutes
+      6&nbsp;minutes
       &nbsp;&bull;
       <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -147,16 +147,67 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      501&nbsp;words
+      1085&nbsp;words
       
     </h5>
 
     <p>This mod adds pots and chests that spawn all over the world, but beware as some chests are more than meets the eye.</p>
-<p><strong>8,000 + Downloads</strong></p>
-<h2 id="about-development">About Development</h2>
-<p>Probably Chests is a minecraft mod made for the fabric loader. It is my third Minecraft mod; created in April of 2022. Creating this mod was a new challenge as I got to learn how to use the GeckoLib library to create interesting animations for the mimics. I had many interesting challenges with making the animations play properly as GeckoLib does all rendering client side which meant I could not modify the value of a data tracker from inside the animation which I used to keep track of the mimics current states as it would break completely when modified from the client. I solved this by using the short circuit order of the checks for the current states to make sure the right animation was always playing. Another thing I had to learn was how to do world generation which, because of the way I wanted my chests to spawn in the world, meant I had to create a whole new custom placement modifier. The mod is still in beta and I intend on making it a full release once I finish adding pet mimics and making sure the mod is compatible with every other fabric mod. Once I finish the first full release of the mod I will add compatibility with numismatic overhaul so that when run together the pots and chests will spawn with that mod’s currency. I will also be making probably chests integrate with my next mod which I have begun planning that will add 250+ items and accessories mostly inspired by terraria.</p>
+<p><strong>480,000 + Downloads</strong></p>
 <h2 id="about-the-mod">About The Mod</h2>
-<p>The mod adds many different biome specific pots and chests that spawn all over the world which can contain amazing loot. You can smash the pots to get simple items you need for caving while the rare chests can contain a huge range of items. The chests however have a chance to actually be a mimic when you attempt to open them. Mimics are very fast and strong so open the chests at your own peril. Only naturally spawning chests can be mimics, however if you wish to make your own mimics you can find mimic key fragments inside of the chests which allow you to craft the mimic key. Using a mimic key on a chest will turn it into a mimic chest that will transform when the next player attempts to interact with it. Mimics have a rare chance to drop a mimic core which when combined with a mimic key makes a pet mimic key. Using a pet mimic key on a chest makes you your very own pet mimic which will follow you around and can be used to store items.</p>
+<p>The mod adds many different biome specific pots and chests that spawn all over the world which can contain amazing loot. You can smash the pots to get simple items you need for caving while the rare chests can contain a huge range of items. The chests however have a chance to actually be a mimic when you attempt to open them. Mimics are very fast and strong so open the chests at your own peril. If you can get the right items together you can even get a pet mimic which will follow you around and store your items.</p>
+<p>The mod requires Geckolib and Cloth Config to work.</p>
+<h3 id="keys-and-locks">Keys and Locks</h3>
+<h4 id="there-are-5-types-of-keys">There are 5 types of keys:</h4>
+<ul>
+<li><strong>Iron</strong> : Can be use to unlock things with iron locks</li>
+<li><strong>Gold</strong> : Can be used to unlock things with gold locks</li>
+<li><strong>Void</strong> : Can be used to unlock things with void locks</li>
+<li><strong>Suspicious</strong> : When used on a chest makes it a secret mimic</li>
+<li><strong>Friendly</strong> : When used on a wild mimic or a chest the chest will transform into a friendly pet mimic</li>
+</ul>
+<h4 id="there-are-3-kinds-of-locks">There are 3 kinds of locks:</h4>
+<ul>
+<li><strong>Iron</strong> : Can lock any chest type including pet mimics</li>
+<li><strong>Gold</strong> : Can be used to lock gold chests</li>
+<li><strong>Void</strong> : Can be used to lock void chests</li>
+</ul>
+<p>A locked chest is indestructable. Players can disable chest ownership and chest locking in the <strong>config</strong>.</p>
+<h3 id="world-gen">World Gen</h3>
+<p>Chests spawn all over the world from the surface to the deepest depths. They also spawn in the nether and in the end.</p>
+<h4 id="there-are-9-types-of-chests">There are 9 types of chests:</h4>
+<ul>
+<li><strong>Normal</strong> : Spawns in caves above y = 0 and moderate temperature biomes</li>
+<li><strong>Lush</strong> : Spawns in very green biomes and lush caves</li>
+<li><strong>Sandstone</strong> : Spawns in hot and arid biomes as well as dripstone caves</li>
+<li><strong>Molten</strong> : Spawns in the nether</li>
+<li><strong>Deepslate</strong> : Spawns below y = 0</li>
+<li><strong>Gold</strong> : Spawns rarely beloy y = 0</li>
+<li><strong>Void</strong> : Spawns in the end</li>
+<li><strong>Ice</strong> : Spawns in cold and icy biomes</li>
+<li><strong>Coral</strong> : Spawns in the oceans and other water sources</li>
+</ul>
+<p>Chests can contain lots of interesting loot as well as keys to other chests. Gold and Void chests are <strong>locked by default</strong> and require their respective keys to be unlocked. <strong>Unlocking a natural chest will consume the key.</strong> Even a locked chest has a chance of being a secret mimic and will transform when you try to open it after unlocking. Gold and Void chests contain the best loot in the game while the other chests will contain items relating to their chest type.</p>
+<h4 id="there-are-4-types-of-pots">There are 4 types of pots:</h4>
+<ul>
+<li><strong>Normal</strong> : Spawns in most biomes</li>
+<li><strong>Lush</strong> : Spawns in green biomes and lush caves</li>
+<li><strong>Sandstone</strong> : Spawns in hot and arid biomes dripstone caves</li>
+<li><strong>Molten</strong> : Spawns in the nether</li>
+</ul>
+<p>Pots also spawn all over the worlds caves and can contain lots of simple items that you need for caving like torches, coal, iron nuggets, etc which are dropped when you smash the pot.</p>
+<p>Spawn rates of pots, chests, and surface chests can all be changed in the config. If you also download Mod Menu you can edit the settings in game. <em>[All setting changes require a world restart]</em></p>
+<h3 id="mimics">Mimics</h3>
+<p>Mimics can spawn from any of the chests from the mod when the player attempts to interact with them for the first time. The chance for a mimic to spawn is set in the config.</p>
+<p>Wild mimics can also spawn naturally like any other mob and when it is far enough from a player for long enough it will enter sleep mode and lock its rotation to the nearest 90 degree angle to look more like a chest. Wild mimics attack players and do large amounts of damage <em>[can change in config]</em> while also being able to jump great heights with no fall damage.</p>
+<p>When killed wild mimics have a chance to drop a <strong>Suspicious Eye</strong> Which when combined with a <strong>Suspicious Key</strong> will make a <strong>Friendly Key.</strong> Wild mimics also have a chance to drop key fragments which can be use to craft suspicious keys as well as drop gold or void keys depending on the type of mimic.</p>
+<h3 id="pet-mimics">Pet Mimics</h3>
+<p>A player can use a friendly key on a wild mimic or on a chest from the mod to transform it into a pet mimic. <em>[Transformed mimics and chests will retain their items]</em></p>
+<p>A pet mimic has the inventory space of a double chest and will follow you around with those items.</p>
+<p>The mimic can be made to sit by <strong>sneak right clicking</strong> and can be <strong>healed using meat</strong> like a wolf. Pet mimics will also attack anything the player attacks so be careful not to hit your friends. A player can also lock a pet mimic using an iron lock and then lock and unlock it using an iron key <em>[not consumed]</em>. A locked pet mimic will bite any player who is not their owner when they attempt to open their chest.</p>
+<h3 id="mimic-abandoning">Mimic Abandoning</h3>
+<h4 id="the-mimic-hand-bell">The Mimic Hand Bell</h4>
+<p>The hand bell can be use to abandon mimics you have lost or simply want to get rid of / trade. To use the hand bell right click on the mimics you wish to keep and they will be added to your keep list, if you add a mimic on accident you can remove it using crouch click. Once you have marked all the mimics you wish to keep you can right click on an amethyst cluster to abandon all non marked mimics. <em>[A players keep list resets upon logging out]</em></p>
+<p>If you abandon a mimic on accident there is a 5 minute timer until the mimic becomes wild in which you can use the bell to reclaim them. After the 5 minutes is up though a mimic will become wild and begin attacking, if you left any items in it killing it will drop the items or you can re-tame the mimic using another friendly key. This feature is most useful when the server has the pet mimic limit enabled which prevents players from having more than a set number of pet mimics.</p>
 <p><img src="/chest-types.png" alt="ChestTypes"></p>
 <h2 id="mimics-and-combat">Mimics and combat</h2>
 
@@ -164,7 +215,7 @@
   <iframe src="https://www.youtube.com/embed/cCwiOANwfzI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h2 id="pet-mimics">Pet mimics</h2>
+<h2 id="pet-mimics-1">Pet mimics</h2>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/5cdqv5hcpXE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
@@ -173,10 +224,10 @@
 <h2 id="future-plans">Future Plans</h2>
 <ul>
 <li>Animal Crossing Style Balloon Crates</li>
-<li>Numismatic Overhaul Integration</li>
+<li>Compatibility with other mods to add to the loot tables.</li>
 </ul>
 <p>Check it out <a href="https://www.curseforge.com/minecraft/mc-mods/probably-chests">HERE</a>.</p>
-<p>Come talk about the mod on the <a href="https://discord.gg/DWBttJkkrn">discord</a>.</p>
+<p>Come talk about the mod on the <a href="https://discord.gg/fvcFxTg6sB">discord</a>.</p>
 <p><a href="https://github.com/ReillyGregorio/ProbablyChests">GitHub</a></p>
 
   </article><div class="bg-blue-100 dark:bg-gray-900">

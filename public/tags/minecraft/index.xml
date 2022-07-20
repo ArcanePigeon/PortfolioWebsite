@@ -5,7 +5,18 @@
     <link>https://cloudwarp.org/tags/minecraft/</link>
     <description>Recent content in minecraft on Holly Gregorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cloudwarp.org/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cloudwarp.org/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mob Scarecrows Mod</title>
+      <link>https://cloudwarp.org/projects/mob-scarecrows/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudwarp.org/projects/mob-scarecrows/</guid>
+      <description>This mod adds many cute plushies and scarecrows into minecraft which can be used to scare away mobs or attract them.
+1,000,000 + Downloads
+About The Mod The mod has many different scarecrows which look like plushies that are used to keep mobs away from your base. The scarecrows are entities that can be placed anywhere and different scarecrows scare different mobs. Some scarecrows attract mobs making them very useful for mob farms.</description>
+    </item>
+    
     <item>
       <title>Doodads Mod</title>
       <link>https://cloudwarp.org/projects/doodads/</link>
@@ -24,8 +35,8 @@ All names, items, and uses are not final as many are based on terraria accessori
       
       <guid>https://cloudwarp.org/projects/probably-chests/</guid>
       <description>This mod adds pots and chests that spawn all over the world, but beware as some chests are more than meets the eye.
-8,000 + Downloads
-About Development Probably Chests is a minecraft mod made for the fabric loader. It is my third Minecraft mod; created in April of 2022. Creating this mod was a new challenge as I got to learn how to use the GeckoLib library to create interesting animations for the mimics.</description>
+480,000 + Downloads
+About The Mod The mod adds many different biome specific pots and chests that spawn all over the world which can contain amazing loot. You can smash the pots to get simple items you need for caving while the rare chests can contain a huge range of items.</description>
     </item>
     
     <item>
@@ -35,18 +46,10 @@ About Development Probably Chests is a minecraft mod made for the fabric loader.
       
       <guid>https://cloudwarp.org/projects/faster-tools/</guid>
       <description>This mod increases the default tool speed in minecraft by 25% and can be customized.
-About Development Faster Tools is a minecraft mod made for the fabric loader. It is my second Minecraft mod; created in February of 2022. After creating my Mob Scarecrows mod I wanted to make a mod that fixed something that had always bugged me in minecraft which was the incredibly slow tool speed. Making this mod was harder than it seemed because initially I had to inject into 4 different places in both minecrafts and fabric’s code to modify the resulting tool speed.</description>
-    </item>
-    
-    <item>
-      <title>Mob Scarecrows Mod</title>
-      <link>https://cloudwarp.org/projects/mob-scarecrows/</link>
-      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cloudwarp.org/projects/mob-scarecrows/</guid>
-      <description>This mod adds many cute plushies and scarecrows into minecraft which can be used to scare away mobs or attract them.
-500,000 + Downloads
-About Development Mob scarecrows is a minecraft mod made for the fabric loader. It was my first Minecraft mod; created in January of 2022. I had never made a minecraft mod before and thought I would do something simple like making a scarecrow to keep mobs away.</description>
+About The Mod The mod simply increases the default tool speed by 25%. The tool speed can be changed via the config where the default value is 1.25 which sets the current tool speed to 25% faster than default.
+Check it out HERE.
+Come talk about the mod on the discord.
+GitHub</description>
     </item>
     
   </channel>
